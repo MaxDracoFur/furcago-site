@@ -1,24 +1,13 @@
-- name: Replay Lincoln Park - Shrek Pub Pop-Up Bar
-  location: Replay Lincoln Park, Chicago
-  date: 2025-04-20
-  startTime: 2025-04-19T19:00:00
-  endTime: 2025-04-19T22:00:00
-  description: Join us for a fun-filled evening at Replay Lincoln Park, where furry friends gather to play games and socialize!
-  host: Furcago with Replay Lincoln Park
-  eventPageLink: events/event-template.html
-  cost: Free (Almost all arcade games are free!)
-  tickets: N/A (Tip your bartender!)
-  minimumAge: 21+
-  capacity: 20
-  accessibility: Wheelchair accessible
-  mapsLink: https://maps.google.com/?q=Replay+Lincoln+Park,+Chicago
-
-- name: Hundreds of Furries
+- name: Hundreds of Furries (Hundreds of Beavers Screening)
   location: Music Box Theatre, Chicago
   date: 2025-05-12
   startTime: 2025-05-11T22:00:00
   endTime: 2025-05-12T2:00:00
-  description: Suit up and scamper over to the Music Box Theatre for a one-of-a-kind screening of Hundreds of Beavers — but this time, it’s Hundreds of Furries! 🦝🦫🦊✨ Join fellow fursuiters and furry friends for a pawsitively hilarious film night. We’ll be filling the historic theater with tails, ears, and cheers as we celebrate this chaotic critter comedy in full fuzzy fashion. Don your suit, grab your friends, and let’s turn the Music Box into a den of fun! Costumes are highly encouraged but not required — bring your best furry energy!
+  description: "Suit up at 5pm and scamper over to the Music Box Theatre for a one-of-a-kind screening of Hundreds of Beavers! 
+  Join fellow fursuiters and furry friends for a pawsitively hilarious film night. 
+  We’ll be filling the historic theater with tails, ears, and cheers as we celebrate this chaotic critter comedy in full fuzzy fashion. 
+  Don your suit, grab your friends, and let’s turn the Music Box into a den of fun! 
+  Fursuits are highly encouraged but not required — bring your best beaver energy! (Show starts at 7, we'll be meeting at 5pm to get everyone suited up and ready to go.)"
   host: Furcago with Music Box Theatre
   eventPageLink: events/event-template.html
   cost: Tickets to be announced.
