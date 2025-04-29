@@ -3,13 +3,15 @@
   date: 2025-05-12
   startTime: 2025-05-11T22:00:00
   endTime: 2025-05-12T2:00:00
-  description: "We're meeting at the Music Box to watch Hundreds of Beavers! Suit up at 5pm - 7pm for photos at the Music Box Theater followed by a movie night. 
+  description: "We're meeting at the Music Box to watch Hundreds of Beavers! Suit up at 5pm - 7pm for photos at the Music Box Theatre followed by a movie night. 
   Make sure to use your Music Box Theater membership to save money on your purchase!
   Fursuits are highly encouraged but not required — bring your best beaver energy!"
-  host: Furcago with Music Box Theatre
+  venue: "Music Box Theatre"
+  venue_url: "https://musicboxtheatre.com"
   eventPageLink: events/event-template.html
-  cost: "$11 ($8 if you're a member)"
-  tickets: https://musicboxtheatre.com/order/add-tickets/12116
+  cost: "$11 ($8 if you're a member) - Just bring your ticket!"
+  tickets: "musicboxtheatre.com/order/add-tickets/12116"
+  tickets_url: https://musicboxtheatre.com/order/add-tickets/12116
   minimumAge: PG-13 (We recommend an accompanying parent or guardian if you're under 18)
   capacity: 100
   accessibility: Wheelchair accessible
