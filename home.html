@@ -72,7 +72,7 @@
             <p><strong>Description:</strong> ${safe(event.description)}</p>
             <p><strong>Host:</strong> ${safe(event.host)}</p>
             <p><strong>Cost:</strong> ${safe(event.cost)}</p>
-            <p><strong>Tickets:</strong> ${safe(event.tickets)}</p>
+            <p><strong>Tickets:</strong> <a class="tickets-link" href="${safe(event.tickets)}" target="_blank">${safe(event.tickets)}</a></p>
             <p><strong>Age Restriction:</strong> ${safe(event.minimumAge)}</p>
             <p><strong>Capacity:</strong> ${safe(event.capacity)}</p>
             <p><strong>Accessibility:</strong> ${safe(event.accessibility)}</p>
