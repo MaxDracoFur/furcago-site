@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Furcago</title>
+    <link>http://localhost:52440/</link>
+    <description>Recent content in About on Furcago</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:52440/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://localhost:52440/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52440/code-of-conduct/</guid>
+      <description>&lt;h1 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h1&gt;&#xA;&lt;p&gt;This Code of Conduct defines required behavior at Furcago events. All attendees, organizers, volunteers, vendors, and sponsors must comply with these rules in all event spaces, both in person and online.&lt;/p&gt;&#xA;&lt;p&gt;Venue policies and applicable local laws also apply at all times. Our organizers are authorized to enforce this Code of Conduct and venue policies in coordination with venue staff and security.&lt;/p&gt;&#xA;&lt;h2 id=&#34;required-conduct&#34;&gt;Required Conduct&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Respect all individuals. Discrimination based on race, ethnicity, gender identity or expression, sexual orientation, disability, appearance, body size, age, religion, or personal background is not permitted.&lt;/li&gt;&#xA;&lt;li&gt;Obtain explicit consent before physical contact or photographing any attendee.&lt;/li&gt;&#xA;&lt;li&gt;Engage in discussions respectfully. Disruptive or aggressive behavior is prohibited.&lt;/li&gt;&#xA;&lt;li&gt;Comply with all alcohol and substance laws. Over-consumption or disruptive behavior will result in removal. Alcohol service is monitored with venue staff.&lt;/li&gt;&#xA;&lt;li&gt;Follow all instructions from event organizers, staff, and venue personnel.&lt;/li&gt;&#xA;&lt;li&gt;Respect venue property and shared spaces.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;prohibited-conduct&#34;&gt;Prohibited Conduct&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Harassment, intimidation, stalking, or unwanted attention toward any individual.&lt;/li&gt;&#xA;&lt;li&gt;Non-consensual and unwanted physical contact or sexual harassment.&lt;/li&gt;&#xA;&lt;li&gt;Hate speech, slurs, or behavior that marginalizes others.&lt;/li&gt;&#xA;&lt;li&gt;Sharing or threatening to share private or personal information of others (&amp;ldquo;doxxing&amp;rdquo;).&lt;/li&gt;&#xA;&lt;li&gt;Non-consensual photography or recording.&lt;/li&gt;&#xA;&lt;li&gt;Disruption of talks, presentations, activities, or event operations.&lt;/li&gt;&#xA;&lt;li&gt;Displaying or distributing explicit, violent, or otherwise inappropriate materials in event spaces.&lt;/li&gt;&#xA;&lt;li&gt;Encouraging or supporting any of the above behaviors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;no-solicitation-policy&#34;&gt;No Solicitation Policy&lt;/h2&gt;&#xA;&lt;p&gt;To maintain the focus and integrity of our event and online channels, we enforce a strict no solicitation policy. Promotion, advertising, or selling of goods, services, or websites without prior approval from the organizers is strictly prohibited. Violators of this policy may be asked to cease their activities and could face removal from the event or online platform. If you wish to engage in promotional activities, please contact the organizers in advance to obtain the necessary permissions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:52440/events/hundreds-of-beavers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52440/events/hundreds-of-beavers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>http://localhost:52440/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52440/faq/</guid>
+      <description>&lt;h2 id=&#34;furcago-event-information&#34;&gt;Furcago Event Information&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;What is Furcago?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Furcago (Fur + Chicago) is a series of organized social gatherings for members of the furry community and allies in&#xA;the&#xA;Chicago area.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Are your events conventions?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;No. Furcago are local meetups, not large-scale conventions.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Where do events take place?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Events are hosted at various venues around Chicago. Locations are shared in advance of each event.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Do I need to register in advance?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,24 +1,21 @@
-<header class="bg-white shadow-sm py-3 mb-4 border-bottom">
-    <div class="container d-flex flex-column flex-md-row align-items-center justify-content-between">
-        <div class="d-flex align-items-center mb-3 mb-md-0">
-            <img src="/res/furcago_logo_1.png"
-                 alt="Furcago"
-                 class="img-fluid me-3"
-                 style="max-width: 48px; height: auto;" />
-            <h1 class="h4 mb-0 fw-bold" style="font-family: 'Roboto', sans-serif;">{{ .Params.heading }}</h1>
+<header class="site-header">
+    <div class="split-container justify-content-between align-items-center px-4 py-3">
+        <div class="left-half align-items-center justify-content-center">
+            <a href="/" class="logo-link">
+                <img src="/res/furcago_logo_1.png" alt="Furcago Logo" class="logo me-3">
+                Furcago
+            </a>
         </div>
-
-        <nav>
-            <ul class="nav flex-column flex-md-row">
-                <li class="nav-item"><a class="nav-link px-2" href="/">Furcago Home</a></li>
-                <li class="nav-item"><a class="nav-link px-2" href="/past-events/">Past Events</a></li>
-                <li class="nav-item"><a class="nav-link px-2" href="/faq/">FAQ</a></li>
-                <li class="nav-item"><a class="nav-link px-2" href="/code-of-conduct/">Code of Conduct</a></li>
+        <div class="right-half right-align-container justify-content-center" style="text-align: right">
+            <ul class="nav nav-links">
+                <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="/faq/">FAQ</a></li>
+                <li class="nav-item"><a class="nav-link" href="/code-of-conduct/">Code of Conduct</a></li>
             </ul>
-        </nav>
+        </div>
     </div>
 
     <link rel="stylesheet" href="/css/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 </header>

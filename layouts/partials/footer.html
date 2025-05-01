@@ -1,17 +1,18 @@
-<footer class="text-center py-4 bg-white border-top">
-    <ul>
+<footer>
+    <ul style="padding-left: 0; display: inline-flex; gap: 1rem; list-style: none;">
         <li>
-            <a href="https://bsky.app/profile/furcago.com"><i class="fab fa-bluesky"></i></a>
+            <a class="footer-link" href="https://bsky.app/profile/furcago.com"><i class="fab fa-bluesky"></i></a>
         </li>
         <li>
-            <a href="https://t.me/+uDyHHXBtpjkwZWYx"><i class="fab fa-telegram"></i></a>
+            <a class="footer-link" href="https://t.me/+uDyHHXBtpjkwZWYx"><i class="fab fa-telegram"></i></a>
         </li>
         <li>
-            <a href="https://instagram.com/furcago_meets"><i class="fab fa-instagram"></i></a>
+            <a class="footer-link" href="https://instagram.com/furcago_meets"><i class="fab fa-instagram"></i></a>
         </li>
         <li>
-            <a href="https://discord.gg/jCecwerpB9"><i class="fab fa-discord"></i></a>
+            <a class="footer-link" href="https://discord.gg/jCecwerpB9"><i class="fab fa-discord"></i></a>
         </li>
     </ul>
-    <p class="mb-0">© {{ now.Year }} Furcago. Made with 💙 in Chicago.</p>
+
+    <small class="d-block mt-3">© {{ now.Format "2006" }} Furcago. All rights reserved.</small>
 </footer>

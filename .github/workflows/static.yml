@@ -1,9 +1,8 @@
-name: Deploy static content to Pages
+name: Deploy pre-built Hugo site
 
 on:
   push:
     branches: [ "main" ]
-
   workflow_dispatch:
 
 permissions:
@@ -17,10 +16,11 @@ concurrency:
 
 jobs:
   deploy:
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -29,8 +29,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
+          path: ./public
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

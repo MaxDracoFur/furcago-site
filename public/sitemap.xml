@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:52440/</loc>
+    <lastmod>2022-07-06T00:36:24-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52440/categories/</loc>
+  </url><url>
+    <loc>http://localhost:52440/code-of-conduct/</loc>
+  </url><url>
+    <loc>http://localhost:52440/events/hundreds-of-beavers/</loc>
+  </url><url>
+    <loc>http://localhost:52440/events/</loc>
+  </url><url>
+    <loc>http://localhost:52440/faq/</loc>
+  </url><url>
+    <loc>http://localhost:52440/tags/</loc>
+  </url>
+</urlset>

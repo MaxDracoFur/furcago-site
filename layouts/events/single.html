@@ -1,0 +1,65 @@
+{{ define "main" }}
+<section class="events py-5">
+    <div class="container col-xxl-8 px-3 px-md-5">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10">
+
+                {{ $slug := .File.TranslationBaseName }}
+                {{ $event := index (where site.Data.events.events "slug" (printf "/events/%s" $slug)) 0 }}
+
+                <div class="card shadow-sm p-4">
+                    <h1 class="h4 mb-3">{{ $event.name }}</h1>
+
+                    <p><strong>When:</strong>
+                        {{ with $event.date }}{{ . | time | time.Format "Monday, January 2, 2006" }}{{ end }},
+                        {{ with $event.startTime }}{{ . | time.Format "3:04 PM" }}{{ end }} –
+                        {{ with $event.endTime }}{{ . | time.Format "3:04 PM" }}{{ end }}
+                    </p>
+
+                    <p><strong>Location:</strong>
+                        <a href="{{ $event.location_url | default $event.mapsLink }}">{{ $event.location }}</a>
+                    </p>
+
+                    <p><strong>Venue:</strong>
+                        <a href="{{ $event.venue_url }}">{{ $event.venue }}</a>
+                    </p>
+
+                    {{ with $event.cost }}
+                    <p><strong>Cost:</strong> {{ . }}</p>
+                    {{ end }}
+
+                    {{ with $event.tickets_url }}
+                    <p><strong>RSVP:</strong> <a href="{{ . }}" class="btn btn-sm btn-outline-primary mt-1">Get Tickets</a></p>
+                    {{ end }}
+
+                    {{ with $event.minimumAge }}
+                    <p><strong>Age Rating:</strong> {{ . }}</p>
+                    {{ end }}
+
+                    {{ with $event.capacity }}
+                    <p><strong>Capacity:</strong> {{ . }}</p>
+                    {{ end }}
+
+                    {{ with $event.accessibility }}
+                    <p><strong>Accessibility:</strong> {{ . }}</p>
+                    {{ end }}
+                    <p>
+                        <strong>Registration: </strong><a href="{{ $event.registration_url }}" target="_blank">RSVP</a>
+                    </p>
+
+                    <hr/>
+
+                    <p><strong>Details: </strong>{{ $event.description }}</p>
+
+                    {{ with $event.image_url }}
+                    <img src="{{ . }}" alt="Event image" class="img-fluid rounded mb-4" />
+                    {{ end }}
+
+                    {{ .Content }}
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
