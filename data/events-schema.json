@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "./venues-schema.json",
+  "type": "object",
+  "properties": {
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "event_name": { "type": "string" },
+          "event_type": { "type": "string" },
+          "event_description": { "type": "string" },
+          "slug": { "type": "string" },
+          "location": { "type": "string" },
+          "location_url": { "type": "string" },
+          "date": { "type": "string" },
+          "start_time": { "type": "string" },
+          "end_time": { "type": "string" },
+          "venue": { "type": "string" },
+          "venue_url": { "type": "string" },
+          "cost": { "type": "string" },
+          "registration": { "type": "string" },
+          "registration_url": { "type": "string" },
+          "minimum_age": { "type": "string" },
+          "capacity": { "type": "string" },
+          "accessibility": { "type": "string" },
+          "maps_link": { "type": "string" },
+          "image_url": { "type": "string" }
+        },
+        "required": [
+          "name",
+          "slug",
+          "type",
+          "location",
+          "location_url",
+          "date",
+          "start_time",
+          "end_time",
+          "description",
+          "venue",
+          "venue_url",
+          "cost",
+          "registration",
+          "registration_url",
+          "minimum_age",
+          "capacity",
+          "accessibility",
+          "maps_link",
+          "image_url"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["events"],
+  "additionalProperties": false
+}
