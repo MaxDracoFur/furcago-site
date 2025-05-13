@@ -9,62 +9,6 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/events/chicago-bean/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/chicago-bean/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/events/chicago-boat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/chicago-boat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/events/emporium-arcade/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/emporium-arcade/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/events/furry-market/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/furry-market/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/events/lincoln-park-zoo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/lincoln-park-zoo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/events/mbt-fantastic-mr-fox/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/mbt-fantastic-mr-fox/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/events/ps1-hack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/ps1-hack/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/events/trampoline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/trampoline/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Code of Conduct</title>
       <link>http://localhost:1313/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -73,30 +17,86 @@
     </item>
     <item>
       <title>Event</title>
-      <link>http://localhost:1313/events/hundreds-of-beavers/</link>
+      <link>http://localhost:1313/events/aids-memorial-picnic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/hundreds-of-beavers/</guid>
+      <guid>http://localhost:1313/events/aids-memorial-picnic/</guid>
       <description></description>
     </item>
     <item>
       <title>Event</title>
-      <link>http://localhost:1313/events/hundreds-of-beavers/</link>
+      <link>http://localhost:1313/events/chicago-bean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/hundreds-of-beavers/</guid>
+      <guid>http://localhost:1313/events/chicago-bean/</guid>
       <description></description>
     </item>
     <item>
       <title>Event</title>
-      <link>http://localhost:1313/events/hundreds-of-beavers/</link>
+      <link>http://localhost:1313/events/chicago-boat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/hundreds-of-beavers/</guid>
+      <guid>http://localhost:1313/events/chicago-boat/</guid>
       <description></description>
     </item>
     <item>
       <title>Event</title>
-      <link>http://localhost:1313/events/hundreds-of-beavers/</link>
+      <link>http://localhost:1313/events/dmen-tap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/hundreds-of-beavers/</guid>
+      <guid>http://localhost:1313/events/dmen-tap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/events/dr-bowling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/dr-bowling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/events/emporium-arcade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/emporium-arcade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/events/furry-market/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/furry-market/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/events/lincoln-park-zoo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/lincoln-park-zoo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/events/mbt-fantastic-mr-fox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/mbt-fantastic-mr-fox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/events/mbt-hundreds-of-beavers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/mbt-hundreds-of-beavers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/events/ps1-maker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/ps1-maker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/events/trampoline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/trampoline/</guid>
       <description></description>
     </item>
     <item>

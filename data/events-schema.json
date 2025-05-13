@@ -26,18 +26,19 @@
           "capacity": { "type": "string" },
           "accessibility": { "type": "string" },
           "maps_link": { "type": "string" },
-          "image_url": { "type": "string" }
+          "promo_image_url": { "type": "string" },
+          "media_url": { "type": "string" }
         },
         "required": [
-          "name",
+          "event_name",
           "slug",
-          "type",
+          "event_type",
           "location",
           "location_url",
           "date",
           "start_time",
           "end_time",
-          "description",
+          "event_description",
           "venue",
           "venue_url",
           "cost",
@@ -47,7 +48,8 @@
           "capacity",
           "accessibility",
           "maps_link",
-          "image_url"
+          "promo_image_url",
+          "media_url"
         ],
         "additionalProperties": false
       }

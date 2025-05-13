@@ -12,12 +12,12 @@
 
                     <p><strong>When:</strong>
                         {{ with $event.date }}{{ . | time | time.Format "Monday, January 2, 2006" }}{{ end }},
-                        {{ with $event.startTime }}{{ . | time.Format "3:04 PM" }}{{ end }} –
-                        {{ with $event.endTime }}{{ . | time.Format "3:04 PM" }}{{ end }}
+                        {{ with $event.start_time }}{{ . | time.Format "3:04 PM" }}{{ end }} –
+                        {{ with $event.end_time }}{{ . | time.Format "3:04 PM" }}{{ end }}
                     </p>
 
                     <p><strong>Location:</strong>
-                        <a href="{{ $event.location_url | default $event.mapsLink }}">{{ $event.location }}</a>
+                        <a href="{{ $event.location_url | default $event.maps_link }}">{{ $event.location }}</a>
                     </p>
 
                     <p><strong>Venue:</strong>
@@ -32,7 +32,7 @@
                     <p><strong>RSVP:</strong> <a href="{{ . }}" class="btn btn-sm btn-outline-primary mt-1">Get Tickets</a></p>
                     {{ end }}
 
-                    {{ with $event.minimumAge }}
+                    {{ with $event.minimum_age }}
                     <p><strong>Age Rating:</strong> {{ . }}</p>
                     {{ end }}
 
