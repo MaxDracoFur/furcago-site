@@ -1,6 +1,6 @@
 ---
 title: "Event"
-slug: "hundreds-of-beavers"
-url: "/events/hundreds-of-beavers"
+slug: "dmen-tap"
+url: "/events/dmen-tap"
 layout: "events/single"
 ---

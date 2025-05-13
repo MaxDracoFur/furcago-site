@@ -1,6 +1,6 @@
 ---
 title: "Event"
-slug: "hundreds-of-beavers"
-url: "/events/hundreds-of-beavers"
+slug: "mbt-hundreds-of-beavers"
+url: "/events/mbt-hundreds-of-beavers"
 layout: "events/single"
 ---

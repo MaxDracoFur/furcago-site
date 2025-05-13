@@ -1,6 +1,6 @@
 ---
 title: "Event"
-slug: "hundreds-of-beavers"
-url: "/events/hundreds-of-beavers"
+slug: "aids-memorial-picnic"
+url: "/events/aids-memorial-picnic"
 layout: "events/single"
 ---
