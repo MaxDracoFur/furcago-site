@@ -51,7 +51,7 @@
 
                     <p><strong>Details: </strong>{{ $event.event_description }}</p>
 
-                    {{ with $event.image_url }}
+                    {{ with $event.promo_image_url }}
                     <img src="{{ . }}" alt="Event image" class="img-fluid rounded mb-4" />
                     {{ end }}
 
