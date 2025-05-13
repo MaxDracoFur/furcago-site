@@ -33,7 +33,7 @@
             <div class="col-12 col-md-8 offset-md-2">
                 {{ range $event := site.Data.events.events }}
                 <div class="card shadow-sm mb-4 p-3">
-                    <p><strong>Details: <a href="{{ $event.slug }}" target="_blank">{{ $event.event_name }}</a></strong>
+                    <p><strong>Details: <a href="{{ $event.slug }}">{{ $event.event_name }}</a></strong>
                     </p>
                     <p><strong>When:</strong>
                         {{ with $event.date }}
@@ -43,7 +43,7 @@
                         {{ with $event.start_time }}{{ . | time.Format "3:04 PM" }}{{ end }} –
                         {{ with $event.end_time }}{{ . | time.Format "3:04 PM" }}{{ end }}
                     </p>
-                    <p><strong>Venue:</strong> <a href="{{ $event.venue_url }}" target="_blank">{{ $event.venue }}</a>
+                    <p><strong>Venue:</strong> <a href="{{ $event.venue_url }}" >{{ $event.venue }}</a>
                     </p>
                     <p>
                         <strong>Registration: </strong><a href="{{ $event.registration_url }}" target="_blank">RSVP</a>
