@@ -8,7 +8,7 @@
                 {{ $event := index (where site.Data.events.events "slug" (printf "/events/%s" $slug)) 0 }}
 
                 <div class="card shadow-sm p-4">
-                    <h1 class="h4 mb-3">{{ $event.name }}</h1>
+                    <h1 class="h4 mb-3">{{ $event.event_name }}</h1>
 
                     <p><strong>When:</strong>
                         {{ with $event.date }}{{ . | time | time.Format "Monday, January 2, 2006" }}{{ end }},
@@ -49,7 +49,7 @@
 
                     <hr/>
 
-                    <p><strong>Details: </strong>{{ $event.description }}</p>
+                    <p><strong>Details: </strong>{{ $event.event_description }}</p>
 
                     {{ with $event.image_url }}
                     <img src="{{ . }}" alt="Event image" class="img-fluid rounded mb-4" />
