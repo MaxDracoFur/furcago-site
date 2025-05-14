@@ -6,6 +6,11 @@
 
                 {{ $slug := .File.TranslationBaseName }}
                 {{ $event := index (where site.Data.events.events "slug" (printf "/events/%s" $slug)) 0 }}
+                {{ with $event }}
+                {{- $.Scratch.Set "og_title" .event_name -}}
+                {{- $.Scratch.Set "og_description" .event_description -}}
+                {{- $.Scratch.Set "og_image" .promo_image_url -}}
+                {{ end }}
                 {{ if ne $event.event_type "upcoming" }}
                 <h2>This event has ended. We sincerely thank all who participated.</h2>
                 {{ end }}

@@ -20,6 +20,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="keywords" content="Home, Events, Meetup">
     <meta name="description" content="Furcago: Furry Chicago Meets.">
+
+    <!-- Open Graph Meta -->
+    {{ with .Scratch.Get "og_title" }}
+    <meta property="og:title" content="{{ . }}">
+    {{ end }}
+    {{ with .Scratch.Get "og_description" }}
+    <meta property="og:description" content="{{ . }}">
+    {{ end }}
+    {{ with .Scratch.Get "og_image" }}
+    <meta property="og:image" content="{{ . | absURL }}">
+    {{ end }}
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="website">
+
     <link rel="stylesheet" href="/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
