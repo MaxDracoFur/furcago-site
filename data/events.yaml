@@ -1,24 +1,24 @@
 # $schema: ./events-schema.json
 events:
-  - event_name: "Secret Furry Gamers Meeting (Board Game Bar)"
-    event_type: "upcoming"
-    event_description: "Join our furry meetup for some casual board games & suiting. Grab a seat, enjoy vegan friendly eats, and enjoy an evening of camaraderie and board games. Whether you're a rogue, bard, or cryptid, all creatures are welcome. This is a great spot for newcomers and longtime guildmates alike to connect IRL. RSVP is not required."
-    slug: "/events/dmen-tap"
-    promo_image_url: "/res/dmen-tap.jpg"
-    location: "Secret Entrance (Dmen-tap Google Maps link)"
-    location_url: "https://maps.app.goo.gl/8jgDVWvnMa85d97T6"
-    date: 2025-06-09
-    start_time: 2025-06-09T17:00:00
-    end_time: 2025-06-09T21:00:00
-    venue: "Dmen Tap"
-    venue_url: "https://www.dmentap.com/"
-    maps_link: "https://maps.google.com/?q=Music+Box+Theatre,+Chicago"
-    media_url: ""
-    registration_url: ""
-    minimum_age: "21+ (This is a Bar and will require ID)"
-    cost: "Free for non-dragons, otherwise 20% hoard-gains tax above each metric tonne of gold."
-    capacity: "40"
-    accessibility: "Not wheelchair accessible and noise levels can get loud at peak hours"
+#  - event_name: "Secret Furry Gamers Meeting (Board Game Bar)"
+#    event_type: "upcoming"
+#    event_description: "Join our furry meetup for some casual board games & suiting. Grab a seat, enjoy vegan friendly eats, and enjoy an evening of camaraderie and board games. Whether you're a rogue, bard, or cryptid, all creatures are welcome. This is a great spot for newcomers and longtime guildmates alike to connect IRL. RSVP is not required."
+#    slug: "/events/dmen-tap"
+#    promo_image_url: "/res/dmen-tap.jpg"
+#    location: "Secret Entrance (Dmen-tap Google Maps link)"
+#    location_url: "https://maps.app.goo.gl/8jgDVWvnMa85d97T6"
+#    date: 2025-06-09
+#    start_time: 2025-06-09T17:00:00
+#    end_time: 2025-06-09T21:00:00
+#    venue: "Dmen Tap"
+#    venue_url: "https://www.dmentap.com/"
+#    maps_link: "https://maps.google.com/?q=Music+Box+Theatre,+Chicago"
+#    media_url: ""
+#    registration_url: ""
+#    minimum_age: "21+ (This is a Bar and will require ID)"
+#    cost: "Free for non-dragons, otherwise 20% hoard-gains tax above each metric tonne of gold."
+#    capacity: "40"
+#    accessibility: "Not wheelchair accessible and noise levels can get loud at peak hours"
   - event_name: "Furcago Pride Month Bowling @ Diversey River Bowl"
     event_type: "upcoming"
     event_description: "Join Furcago for it's first furry bowling event to celebrate pride! Suiting is permitted & encouraged. If the weather is nice out we will walk to the river for a photo outside. RSVP is not required and there is no attendance fee. You'll need to pay for your own lane and shoes if you choose to bowl, play pinball, or enjoy the cafeteria."
