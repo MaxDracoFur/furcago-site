@@ -40,14 +40,14 @@ events:
     accessibility: "ADA accessible, loud noises are expected at peak hours"
   - event_name: "Furcago Pride Fest Meetup"
     event_type: "upcoming"
-    event_description: "Join Furcago for a meetup at Chicago Pride Fest! 🏳️‍🌈🐺✨ We’re gathering suiters and furry friends for a short Pride Walk & dance around the festival grounds — bringing joy, queer visibility, and fuzzy hugs to the heart of Boystown. Whether you’re in full suit, partial, or just yourself, you’re welcome.  We’ll meet at Halsted & Addison (see map link) at 5pm. It will be busy & there will be other people drinking, please suit with what you feel comfortable with risking a spilled drink on."
+    event_description: "Join Furcago Sunday morning at Chicago Pride Fest! 🏳️‍🌈🐺✨ We’re gathering suiters and furry friends for a short Pride Walk & dance around the festival grounds — bringing joy, queer visibility, and fuzzy hugs to the heart of Boystown. Whether you’re in full suit, partial, or just yourself, you’re welcome.  We’ll meet at Halsted & Addison (see map link) at 10am - 1pm. It will be busy & there will be other people drinking, please suit with what you feel comfortable with risking a spilled drink on."
     slug: "/events/pride-fest-2025"
     promo_image_url: "/res/pride-fest-2025.png"
     location: "Halstead & Addison"
     location_url: "https://www.google.com/maps/place/Halsted+%26+Addison/@41.946922,-87.649574,16z/data=!3m1!4b1!4m6!3m5!1s0x880fd3b05d343e23:0x92309a2e85c4d881!8m2!3d41.946922!4d-87.649574!16s%2Fg%2F1tf5qv7v?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D"
-    date: 2025-06-21
-    start_time: 2025-06-21T17:00:00
-    end_time: 2025-06-21T21:00:00
+    date: 2025-06-22
+    start_time: 2025-06-22T10:00:00
+    end_time: 2025-06-22T13:00:00
     venue: "Public Venue - Organized by Northalsted"
     venue_url: "https://northalsted.com/main-events/chicago-pride-fest/"
     maps_link: "https://www.google.com/maps/place/Halsted+%26+Addison/@41.946922,-87.649574,16z/data=!3m1!4b1!4m6!3m5!1s0x880fd3b05d343e23:0x92309a2e85c4d881!8m2!3d41.946922!4d-87.649574!16s%2Fg%2F1tf5qv7v?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D"
