@@ -1,10 +1,10 @@
 # $schema: ./events-schema.json
 events:
-  - event_name: "Loony Tunes At the Music Box"
+  - event_name: "looney Tunes At the Music Box"
     event_type: "upcoming"
-    event_description: "We're meeting at the Music Box to watch Loony Tunes! Suit up at 10:30 (expect to be asked for photos) Fursuits are highly encouraged but not required — bring your best duck...Rabbit energy!"
-    slug: "/events/mbt-loony-tunes"
-    promo_image_url: "/res/loony.png"
+    event_description: "We're meeting at the Music Box to watch looney Tunes! Suit up at 10:30 (expect to be asked for photos) Fursuits are highly encouraged but not required — bring your best duck...Rabbit energy!"
+    slug: "/events/mbt-looney-tunes"
+    promo_image_url: "/res/looney.png"
     location: "Directions"
     location_url: "https://maps.app.goo.gl/9tdqp7rRxS4Zmjy7A"
     date: 2025-07-12
@@ -14,7 +14,7 @@ events:
     venue_url: "https://musicboxtheatre.com"
     maps_link: https://maps.google.com/?q=Music+Box+Theatre,+Chicago
     registration_url: ""
-    media_url: "https://www.furtrack.com/index/event:furcago_loony_tunes"
+    media_url: "https://www.furtrack.com/index/event:furcago_looney_tunes"
     minimum_age: "PG"
     cost: "Free!"
     capacity: "100"

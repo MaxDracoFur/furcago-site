@@ -1,6 +1,6 @@
 ---
 title: "Event"
-slug: "mbt-loony-tunes"
-url: "/events/mbt-loony-tunes"
+slug: "mbt-looney-tunes"
+url: "/events/mbt-looney-tunes"
 layout: "events/single"
 ---
