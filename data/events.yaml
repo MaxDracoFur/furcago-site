@@ -1,7 +1,26 @@
 # $schema: ./events-schema.json
 events:
-  - event_name: "Furcago Pride Month Bowling @ Diversey River Bowl"
+  - event_name: "Loony Tunes At the Music Box"
     event_type: "upcoming"
+    event_description: "We're meeting at the Music Box to watch Loony Tunes! Suit up at 10:30 (expect to be asked for photos) Fursuits are highly encouraged but not required — bring your best duck...Rabbit energy!"
+    slug: "/events/mbt-loony-tunes"
+    promo_image_url: "/res/loony.png"
+    location: "Directions"
+    location_url: "https://maps.app.goo.gl/9tdqp7rRxS4Zmjy7A"
+    date: 2025-07-12
+    start_time: 2025-07-12T10:30:00
+    end_time: 2025-07-12T15:00:00
+    venue: "Music Box Theatre"
+    venue_url: "https://musicboxtheatre.com"
+    maps_link: https://maps.google.com/?q=Music+Box+Theatre,+Chicago
+    registration_url: ""
+    media_url: "https://www.furtrack.com/index/event:furcago_loony_tunes"
+    minimum_age: "PG"
+    cost: "Free!"
+    capacity: "100"
+    accessibility: "Wheelchair accessible"
+  - event_name: "Furcago Pride Month Bowling @ Diversey River Bowl"
+    event_type: "archive"
     event_description: "Join Furcago for it's first furry bowling event to celebrate pride! Suiting is permitted & encouraged. If the weather is nice out we will walk to the river for a photo outside. RSVP is not required and there is no attendance fee. You'll need to pay for your own lane and shoes if you choose to bowl, play pinball, or enjoy the cafeteria."
     slug: "/events/dr-bowling"
     promo_image_url: "/res/dr-bowl.jpg"
@@ -19,25 +38,6 @@ events:
     cost: ""
     capacity: "100"
     accessibility: "ADA accessible, loud noises are expected at peak hours"
-  - event_name: "Furcago Pride Fest Meetup"
-    event_type: "upcoming"
-    event_description: "Join Furcago Sunday morning at Chicago Pride Fest! 🏳️‍🌈🐺✨ We’re gathering suiters and furry friends for a short Pride Walk & dance around the festival grounds — bringing joy, queer visibility, and fuzzy hugs to the heart of Boystown. Whether you’re in full suit, partial, or just yourself, you’re welcome.  We’ll meet at Halsted & Addison (see map link) at 10am - 1pm. It will be busy & there will be other people drinking, please suit with what you feel comfortable with risking a spilled drink on."
-    slug: "/events/pride-fest-2025"
-    promo_image_url: "/res/pride-fest-2025.png"
-    location: "Halstead & Addison"
-    location_url: "https://www.google.com/maps/place/Halsted+%26+Addison/@41.946922,-87.649574,16z/data=!3m1!4b1!4m6!3m5!1s0x880fd3b05d343e23:0x92309a2e85c4d881!8m2!3d41.946922!4d-87.649574!16s%2Fg%2F1tf5qv7v?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D"
-    date: 2025-06-22
-    start_time: 2025-06-22T10:00:00
-    end_time: 2025-06-22T13:00:00
-    venue: "Public Venue - Organized by Northalsted"
-    venue_url: "https://northalsted.com/main-events/chicago-pride-fest/"
-    maps_link: "https://www.google.com/maps/place/Halsted+%26+Addison/@41.946922,-87.649574,16z/data=!3m1!4b1!4m6!3m5!1s0x880fd3b05d343e23:0x92309a2e85c4d881!8m2!3d41.946922!4d-87.649574!16s%2Fg%2F1tf5qv7v?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D"
-    media_url: ""
-    registration_url: ""
-    minimum_age: "All Ages"
-    cost: "Free. Donations will be asked for at the entrance but it is not required"
-    capacity: "No Limit"
-    accessibility: "Wheelchair accessible, noise level and crowd will be significant, we will not have a designated place to sit"
   - event_name: "Hundreds of Furries"
     event_type: "archive"
     event_description: "We're meeting at the Music Box to watch Hundreds of Beavers! Suit up at 5pm - 7pm for photos at the Music Box Theatre followed by a movie night. Make sure to use your Music Box Theater membership to save money on your purchase! Fursuits are highly encouraged but not required — bring your best beaver energy!"
